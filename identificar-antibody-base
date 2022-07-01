@@ -1,4 +1,4 @@
-name	        HS	RMSD	CS	RESULTADO
+name	        Haddock	RMSD	CS	RESULTADO
 6J14_1w.pdb  	14.7	0.0	18	3
 6J14_3w.pdb   	20.7 	1.13	18	3
 6J14_39w.pdb  	23.5 	1.36	18	0
